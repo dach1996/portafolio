@@ -903,6 +903,12 @@ a:hover {
 .portfolio-details .portfolio-details-container {
   position: relative;
 }
+.option{
+  width:100%;
+  display: flex;
+     flex-wrap: wrap; 
+     flex: initial; 
+}
 
 .portfolio-details .portfolio-details-carousel {
   position: relative;
